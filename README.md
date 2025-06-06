@@ -136,6 +136,7 @@ img.load()
 ## 🧠 Educational Use Only
 
 These examples are meant to raise awareness of hidden attack vectors in media processing. Use responsibly.
+Pablo Guide / Pablo Rotem / פבלו רותם
 
 ---
 
